@@ -8,7 +8,6 @@ public class test {
 		
 		
 		
-		Patient a1 = new Patient ("saleh , "     ,      "a ", 123 , 65 ) ; 
 		Patient a2= new Patient ("moh , "  , "ss ", 3456 , 55 ) ; 
 		Patient a3 = new Patient ("ggg , "  , "sss ", 789 , 44 ) ; 
 		Patient a4 = new Patient ("xxxx , "  , "xx ", 12332 , 24 ) ; 
