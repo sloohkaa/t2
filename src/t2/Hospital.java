@@ -15,19 +15,6 @@ public class Hospital {
 	}
 	
 	
-	public int countPatients(String d ){
-		int sum = 0 ; 
-		for(int i =0 ; i<nbs ; i++){
-			if(arrPatient[i].getdisease().equals(d))
-				sum ++ ; 
-		}
-		return sum ;
-		
-		
-		
-		
-	}
-		
 
 	
 	
