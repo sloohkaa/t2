@@ -14,16 +14,6 @@ public class Hospital {
 		
 	}
 	
-	public boolean addPatient(Patient p ){
-		if(nbs < arrPatient.length ){
-			arrPatient[nbs]= p ;
-			nbs++ ; 
-			
-			return true ; 
-		}
-			return false ; }
-			
-		
 	
 	public int countPatients(String d ){
 		int sum = 0 ; 
